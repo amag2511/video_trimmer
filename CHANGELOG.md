@@ -1,3 +1,22 @@
+## 0.5.2
+
+* Fix iOS error while loading thumbnails in `TrimEditor`
+* Remove an unused dependency
+* Update packages
+
+## 0.5.1
+
+* Update the example in Readme
+* Update the plugin versions
+
+## 0.5.0
+
+* Global refactoring, example is now a standalone screen
+* Fixed the staggering issue when dragging the frame
+* The whole frame can now be dragged in addition to the sides
+* Updated packages
+* Updated the example
+
 ## 0.4.0
 
 * Migrate to null safety
